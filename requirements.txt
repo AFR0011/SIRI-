@@ -1,0 +1,10 @@
+speechrecognition
+pyttsx3
+python-dateutil
+ytmusicapi
+pygame
+mutagen
+winotify
+googletrans==4.0.0-rc1
+requests
+googlesearch-python
