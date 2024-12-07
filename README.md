@@ -40,10 +40,9 @@ Explore the web conveniently. SIRI- utilizes the googlesearch library to display
 
 ```
 SIRI-/
-├── src/ # Source code for all functionalities
-├── assets/ # Media and resources used in the application
-├── docs/ # Documentation and guides
-├── config/ # Configuration files, including API keys
+├── Src/ # Source code for all functionalities
+├── Assets/ # Media and resources used in the application
+├── Config/ # Configuration files, including API keys
 └── README.md # Project documentation
 
 ```
@@ -87,7 +86,7 @@ Ensure you have the following installed:
 2. Run the application:
     
     ```
-    python src/main.py
+    python src/Assistant.py
     
     ```
     
@@ -117,5 +116,6 @@ SIRI- can be used to:
 ## Possible Improvements
 
 - Add support for more APIs and libraries for enhanced functionality.
+- Incorporate user-centric approaches to make application more user-friendly.
 - Integrate natural language processing (NLP) for smarter command interpretation.
 - Make the app platform-independent with GUI support.

@@ -1,0 +1,8 @@
+{
+ "access_token": "YOUR_TOKEN",
+ "expires_in": 1234,
+ "refresh_token": "YOUR_TOKEN",
+ "scope": "https://www.googleapis.com/auth/youtube",
+ "token_type": "Bearer",
+ "expires_at": 12345 
+}
