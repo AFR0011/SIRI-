@@ -47,6 +47,8 @@ SIRI-/
 
 ```
 
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -115,7 +117,8 @@ SIRI- can be used to:
 
 ## Possible Improvements
 
+- Improve base functions and tidy up code.
+- Incorporate user-centric aspects to improve user-friendliness.
 - Add support for more APIs and libraries for enhanced functionality.
-- Incorporate user-centric approaches to make application more user-friendly.
 - Integrate natural language processing (NLP) for smarter command interpretation.
 - Make the app platform-independent with GUI support.
